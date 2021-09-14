@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quilldocs/static/css/main.c3ac1b85.chunk.css",
-    "main.js": "/quilldocs/static/js/main.15a06642.chunk.js",
-    "main.js.map": "/quilldocs/static/js/main.15a06642.chunk.js.map",
-    "runtime-main.js": "/quilldocs/static/js/runtime-main.b682fb99.js",
-    "runtime-main.js.map": "/quilldocs/static/js/runtime-main.b682fb99.js.map",
-    "static/css/2.59dee6c0.chunk.css": "/quilldocs/static/css/2.59dee6c0.chunk.css",
-    "static/js/2.5491798c.chunk.js": "/quilldocs/static/js/2.5491798c.chunk.js",
-    "static/js/2.5491798c.chunk.js.map": "/quilldocs/static/js/2.5491798c.chunk.js.map",
-    "index.html": "/quilldocs/index.html",
-    "static/css/2.59dee6c0.chunk.css.map": "/quilldocs/static/css/2.59dee6c0.chunk.css.map",
-    "static/css/main.c3ac1b85.chunk.css.map": "/quilldocs/static/css/main.c3ac1b85.chunk.css.map",
-    "static/js/2.5491798c.chunk.js.LICENSE.txt": "/quilldocs/static/js/2.5491798c.chunk.js.LICENSE.txt"
+    "main.css": "/quillDocs/static/css/main.c3ac1b85.chunk.css",
+    "main.js": "/quillDocs/static/js/main.15a06642.chunk.js",
+    "main.js.map": "/quillDocs/static/js/main.15a06642.chunk.js.map",
+    "runtime-main.js": "/quillDocs/static/js/runtime-main.43cd87dd.js",
+    "runtime-main.js.map": "/quillDocs/static/js/runtime-main.43cd87dd.js.map",
+    "static/css/2.59dee6c0.chunk.css": "/quillDocs/static/css/2.59dee6c0.chunk.css",
+    "static/js/2.6b37bead.chunk.js": "/quillDocs/static/js/2.6b37bead.chunk.js",
+    "static/js/2.6b37bead.chunk.js.map": "/quillDocs/static/js/2.6b37bead.chunk.js.map",
+    "index.html": "/quillDocs/index.html",
+    "static/css/2.59dee6c0.chunk.css.map": "/quillDocs/static/css/2.59dee6c0.chunk.css.map",
+    "static/css/main.c3ac1b85.chunk.css.map": "/quillDocs/static/css/main.c3ac1b85.chunk.css.map",
+    "static/js/2.6b37bead.chunk.js.LICENSE.txt": "/quillDocs/static/js/2.6b37bead.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b682fb99.js",
+    "static/js/runtime-main.43cd87dd.js",
     "static/css/2.59dee6c0.chunk.css",
-    "static/js/2.5491798c.chunk.js",
+    "static/js/2.6b37bead.chunk.js",
     "static/css/main.c3ac1b85.chunk.css",
     "static/js/main.15a06642.chunk.js"
   ]
